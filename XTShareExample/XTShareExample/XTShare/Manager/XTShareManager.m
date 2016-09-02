@@ -1,6 +1,6 @@
 //
 //  XTShareManager.m
-//  XTShare
+//  XTCustomShare
 //
 //  Created by XT Xiong on 16/9/1.
 //  Copyright © 2016年 XT Xiong. All rights reserved.
@@ -17,9 +17,9 @@
 #import <TencentOpenAPI/TencentOAuth.h>
 #import <TencentOpenAPI/QQApiInterface.h>
 
-#define ShareSDK_WeChat_AppID       @"微信ID"
-#define ShareSDK_QQ_AppID           @"QQID"
-#define ShareSDK_Weibo_AppID        @"微博ID"
+#define ShareSDK_WeChat_AppID       @"wxbc9b1c41bc545d88"
+#define ShareSDK_QQ_AppID           @"1104672593"
+#define ShareSDK_Weibo_AppID        @"1313230198"
 
 @implementation XTShareManager
 
